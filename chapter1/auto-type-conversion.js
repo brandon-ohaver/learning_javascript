@@ -16,4 +16,3 @@ console.log(false == 0) // --> true
 // 5 (from string to number). Yet in the third expression, + tries string concatenation...
 // before numeric addition, so the 1 is converted to "1" (from number to string).
 
-
